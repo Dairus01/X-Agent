@@ -33,3 +33,4 @@ function clampInt(v: string | null, dflt: number, min: number, max: number): num
   if (!Number.isFinite(n)) return dflt;
   return Math.max(min, Math.min(max, n));
 }
+/* x-agent-history */ step=63
