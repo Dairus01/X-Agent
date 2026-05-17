@@ -15,6 +15,12 @@ single key unlocks the entire model catalog.
   Where a number is not available from a public source, the UI hides the tile
   rather than fabricate it.
 
+## Demo
+
+https://github.com/Dairus01/X-Agent/raw/master/docs/demo.mp4
+
+Walkthrough of the landing page, research chat, market dashboard, narratives, and watchlist.
+
 ---
 
 ## Quick start
