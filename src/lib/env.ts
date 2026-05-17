@@ -29,3 +29,4 @@ export function assertOpenRouter(): void {
 export function hasOpenRouter(): boolean {
   return Boolean(env.openrouterApiKey);
 }
+/* x-agent-history */ step=89
