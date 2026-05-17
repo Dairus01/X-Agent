@@ -27,7 +27,7 @@ const LINK_GROUPS: { title: string; links: { label: string; href: string; extern
   {
     title: "Open source",
     links: [
-      { label: "GitHub", href: "https://github.com", external: true },
+      { label: "GitHub", href: "https://github.com/Dairus01/X-Agent", external: true },
       { label: "MIT License", href: "https://opensource.org/license/mit", external: true },
       { label: "OpenRouter", href: "https://openrouter.ai", external: true },
     ],
@@ -96,13 +96,13 @@ export function LandingFooter() {
             © {new Date().getFullYear()} X-Agent · MIT licensed · No paid APIs, real data only.
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/Dairus01/X-Agent"
             target="_blank"
             rel="noreferrer noopener"
             className="inline-flex items-center gap-1.5 rounded-full border border-border bg-background/60 px-3 py-1 font-mono text-[11px] text-muted-foreground transition-colors hover:text-foreground"
           >
             <Github className="h-3 w-3" />
-            github.com/x-agent
+            github.com/Dairus01/X-Agent
           </a>
         </div>
       </div>

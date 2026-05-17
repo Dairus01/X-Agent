@@ -68,7 +68,7 @@ export function OpenSourceCta() {
                 <ArrowRight className="h-4 w-4" />
               </Button>
             </Link>
-            <a href="https://github.com" target="_blank" rel="noreferrer noopener">
+            <a href="https://github.com/Dairus01/X-Agent" target="_blank" rel="noreferrer noopener">
               <Button size="lg" variant="outline" className="font-medium">
                 <Github className="h-4 w-4" />
                 Clone on GitHub

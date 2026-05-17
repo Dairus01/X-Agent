@@ -59,7 +59,7 @@ export function LandingTopNav() {
         <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
           <ThemeToggle variant="compact" />
           <a
-            href="https://github.com"
+            href="https://github.com/Dairus01/X-Agent"
             target="_blank"
             rel="noreferrer noopener"
             className="hidden md:inline-flex"
@@ -108,7 +108,7 @@ export function LandingTopNav() {
                 </a>
               ))}
               <a
-                href="https://github.com"
+                href="https://github.com/Dairus01/X-Agent"
                 target="_blank"
                 rel="noreferrer noopener"
                 onClick={() => setOpen(false)}

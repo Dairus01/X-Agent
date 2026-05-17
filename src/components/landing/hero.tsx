@@ -49,7 +49,7 @@ export function LandingHero() {
               </Button>
             </Link>
             <a
-              href="https://github.com"
+              href="https://github.com/Dairus01/X-Agent"
               target="_blank"
               rel="noreferrer noopener"
             >
