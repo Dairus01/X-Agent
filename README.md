@@ -132,10 +132,3 @@ npm run typecheck   # tsc --noEmit
 ## License
 
 MIT. Clone it, fork it, swap models, add feeds, ship your own variant.
-<!-- history-step-79 -->
-<!-- history-step-80 -->
-<!-- history-step-81 -->
-<!-- history-step-82 -->
-<!-- history-step-83 -->
-<!-- history-step-84 -->
-<!-- history-step-85 -->

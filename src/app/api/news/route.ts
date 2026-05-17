@@ -25,4 +25,3 @@ export async function GET(req: NextRequest) {
     return Response.json({ error: message }, { status: 502 });
   }
 }
-/* x-agent-history */ step=65

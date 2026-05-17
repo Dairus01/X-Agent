@@ -71,4 +71,3 @@ export async function GET(req: NextRequest) {
     return jsonResponse(502, { error: message });
   }
 }
-/* x-agent-history */ step=67
