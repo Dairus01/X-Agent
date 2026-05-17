@@ -18,7 +18,7 @@ single key unlocks the entire model catalog.
 ## Demo
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/Dairus01/X-Agent/master/docs/demo.mp4" width="800" controls></video>
+  <video src="https://github.com/Dairus01/X-Agent/releases/download/readme-demo/demo.mp4" width="800" controls></video>
 </div>
 
 Walkthrough of the landing page, research chat, market dashboard, narratives, and watchlist.
