@@ -193,3 +193,4 @@ function formatCompact(n: number): string {
     maximumFractionDigits: 2,
   }).format(n);
 }
+/* x-agent-history */ step=98
